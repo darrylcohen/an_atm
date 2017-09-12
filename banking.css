@@ -1,0 +1,93 @@
+body {
+  width:40%;
+  text-align:center;
+  margin: 0 auto;
+
+  font-family: 'Ubuntu', sans-serif;
+  background-image: url("bkg.jpg" );
+
+
+}
+.container {
+    background-color: white;
+    font-weight:bold;
+  border: 3px solid darkblue;
+    margin-top:50px;
+}
+header {
+  background-color: darkblue;
+  color : white;
+  padding:20px;
+
+
+}
+h1, h3 ,p {
+  margin:0;
+  padding:0;
+}
+.midContainer {
+ font-size: 150%;
+   background-color: darkblue;
+   color: white;
+     padding:25px;
+
+}
+.midContainer p {
+  display:inline;
+  margin-right:30px;
+  font-size:130%;
+}
+.subHeading {
+  /*background-color: pink;*/
+  color: darkblue;
+  padding:20px;
+  font-size: 120%;
+}
+h3 {
+  padding: 10px;
+}
+.accountInfo {
+
+}
+.options {
+  font-size:130%;
+
+}
+.accountsCombo {
+  display:inline;
+}
+.amount {
+  width:20%;
+  border: 1px solid black;
+  padding:10px;
+  margin:20px;
+  font-size:300%;
+  text-align:center;
+
+}
+button{
+  font-size:150%;
+  margin-bottom:20px;
+  margin: 5px;
+}
+footer {
+  background-color: darkblue;
+  color:white;
+  padding:30px;
+  font-size: 140%;
+}
+.done {
+  border:none;
+  background-image: none;
+  background-color: darkblue;
+
+}
+.bye {
+  padding-top: 200px;
+  text-align: center;
+  color: white;
+  display: none;
+}
+.bye h1 {
+  padding:15px;
+}
