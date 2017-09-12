@@ -16,6 +16,8 @@ I broke the problem down based on functionality and created objects
 
 I found that if not set up correctly, this approach is difficult to maintain. I would need to learn more about programming design. Happy that my approach was to separate who does what.
 
+[Design](https://github.com/darrylcohen/The_ATM/blob/master/ATM%20Design.pdf)
+
 [See the ATM](https://darrylcohen.github.io/The_ATM/)
 
 [Please visit my web site](https://www.darrylcohen.com.au)
