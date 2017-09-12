@@ -5,15 +5,18 @@ Darryl Cohen
 
 <img src=https://ibin.co/3a6gl2qIO5jm.jpg width="300">
 
-The Problem
+The requirements were to build a small ATM machine to deposit and withdraw transactions from multiple accounts
 
-Create a simple ATM to deposit and withdraw transaction across accounts
+I broke the problem down based on functionality and created objects
 
-My Solution
++ Account : a bank Account
++ Viewer : responsible for screen activity
++ Controller : logic that controls the flow
++ Data : holds onto the data
 
-[Play the Game](https://darrylcohen.github.io/dot_to_dot/)
+I found that if not set up correctly, this approach is difficult to maintain. I would need to learn more about programming design. Happy that my approach was to separate who does what.
 
-[My Design](https://github.com/darrylcohen/dot_to_dot/blob/master/design.pdf)
+[See the ATM](https://darrylcohen.github.io/The_ATM/)
 
 [Please visit my web site](https://www.darrylcohen.com.au)
 
