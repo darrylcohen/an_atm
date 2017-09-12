@@ -7,7 +7,7 @@ Darryl Cohen
 
 The Problem
 
-Create a game that can be plyed by 2 or more players. I chose the game of Dot to Dot
+Create a simple ATM to deposit and withdraw transaction across accounts
 
 My Solution
 
