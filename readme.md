@@ -18,7 +18,7 @@ I found that if not set up correctly, this approach is difficult to maintain. I 
 
 [Design](https://github.com/darrylcohen/The_ATM/blob/master/ATM%20Design.pdf)
 
-[See the ATM](https://darrylcohen.github.io/The_ATM/)
+[See the ATM](https://darrylcohen.github.io/an_atm/)
 
 [Please visit my web site](https://www.darrylcohen.com.au)
 
