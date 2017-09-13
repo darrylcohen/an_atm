@@ -5,7 +5,11 @@ Darryl Cohen
 
 <img src=https://ibin.co/3a6gl2qIO5jm.jpg width="300">
 
+## The Requirements
+
 The requirements were to build a small ATM machine to deposit and withdraw transactions from multiple accounts
+
+## My Solution
 
 I broke the problem down based on functionality and created objects
 
